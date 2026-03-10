@@ -1,5 +1,4 @@
 import { AlertTriangle } from "lucide-react";
-import logo from "../assets/logo.png";
 
 export function Header() {
   return (
@@ -19,14 +18,13 @@ export function Header() {
         <div className="container">
           <div className="flex items-center justify-center gap-3">
 
-            {/* Logo */}
+            {/* Logo from public folder */}
             <img 
-              src={logo} 
-              alt="M-KOPA Logo" 
-              className="w-10 h-10 object-contain"
+              src="/logo.png" 
+              alt="M-KOPA Logo"
+              className="h-10 w-auto"
             />
 
-            {/* Title */}
             <h1 className="text-xl sm:text-2xl font-display font-bold text-foreground">
               M-KOPA <span className="text-primary">Loans</span>
             </h1>
