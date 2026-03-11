@@ -80,7 +80,7 @@ export function EligibilityForm({ onSubmit }: EligibilityFormProps) {
           Find out how much you qualify for instantly
         </p>
         <p className="mt-2 text-lg font-semibold text-primary">
-          Ksh 1,500 – 60,000
+          Ksh 1,500 – 100,000
         </p>
       </div>
 
