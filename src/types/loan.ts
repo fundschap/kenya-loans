@@ -15,7 +15,7 @@ export interface PaymentResponse {
 }
 
 export const LOAN_OPTIONS: LoanOption[] = [
-{ amount: 5900, fee: 240 },
+{ amount: 5900, fee: 220 },
 { amount: 6800, fee: 260 },
 { amount: 7800, fee: 280 },
 { amount: 9800, fee: 300 },
