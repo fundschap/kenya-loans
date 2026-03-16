@@ -26,7 +26,7 @@ export const LOAN_OPTIONS: LoanOption[] = [
   { amount: 30000, fee: 500 },
   { amount: 35400, fee: 600 },
   { amount: 39800, fee: 750 },
-  { amount: 44200, fee: 1000 },
+  { amount: 44200, fee: 1100 },
   { amount: 48600, fee: 1600 },
   { amount: 60600, fee: 2050 },
 ];
