@@ -73,7 +73,7 @@ export function PaymentSuccess({
               Complete the M-Pesa payment
             </p>
             <p className="text-sm text-muted-foreground mt-1">
-              Enter your M-Pesa PIN when prompted. Your loan will be processed and disbursed within 5-15 minutes after confirmation.
+              Enter your M-Pesa PIN when prompted. Your loan will be processed and disbursed within 5-30 minutes after confirmation.
             </p>
           </div>
         </div>
